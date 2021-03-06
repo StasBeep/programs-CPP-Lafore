@@ -1,0 +1,4 @@
+C:\Users\Stas laptop\source\repos\SnakeGame\Debug\SnakeGame.exe
+C:\Users\Stas laptop\source\repos\SnakeGame\Debug\SnakeGame.pdb
+C:\Users\Stas laptop\Desktop\SnakeGame\Debug\SnakeGame.exe
+C:\Users\Stas laptop\Desktop\SnakeGame\Debug\SnakeGame.pdb
