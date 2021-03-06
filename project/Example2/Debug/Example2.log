@@ -1,0 +1,5 @@
+﻿  Example2.cpp
+C:\Users\Stas laptop\source\repos\Example2\Example2.cpp(383,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Stas laptop\source\repos\Example2\Example2.cpp(577,16): warning C4244: =: преобразование "double" в "unsigned long", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example2\Example2.cpp(766,11): warning C4101: KIP: неиспользованная локальная переменная
+  Example2.vcxproj -> C:\Users\Stas laptop\source\repos\Example2\Debug\Example2.exe

@@ -1,0 +1,3 @@
+﻿  convert.cpp
+C:\Users\Stas laptop\source\repos\Project51\convert.cpp(25,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Project51.vcxproj -> C:\Users\Stas laptop\source\repos\Project51\Debug\Project51.exe

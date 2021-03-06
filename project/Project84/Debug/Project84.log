@@ -1,0 +1,3 @@
+﻿  cardaray.cpp
+C:\Users\Stas laptop\source\repos\Project84\cardaray.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project84.vcxproj -> C:\Users\Stas laptop\source\repos\Project84\Debug\Project84.exe

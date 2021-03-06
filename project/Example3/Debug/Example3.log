@@ -1,0 +1,4 @@
+﻿  Example3.cpp
+C:\Users\Stas laptop\source\repos\Example3\Example3.cpp(167,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Stas laptop\source\repos\Example3\Example3.cpp(170,28): warning C4305: =: усечение из "double" в "float"
+  Example3.vcxproj -> C:\Users\Stas laptop\source\repos\Example3\Debug\Example3.exe

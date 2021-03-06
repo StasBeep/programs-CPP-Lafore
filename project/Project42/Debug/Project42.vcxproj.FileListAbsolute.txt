@@ -1,0 +1,2 @@
+C:\Users\Stas laptop\source\repos\Project42\Debug\Project42.exe
+C:\Users\Stas laptop\source\repos\Project42\Debug\Project42.pdb

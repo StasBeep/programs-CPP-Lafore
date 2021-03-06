@@ -1,0 +1,12 @@
+﻿  ExampleRussia.cpp
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(25,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(62,16): warning C4129: .: неизвестная escape-последовательность
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(63,17): warning C4129: ,: неизвестная escape-последовательность
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(64,20): warning C4129:: : неизвестная escape-последовательность
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(83,49): warning C4129: !: неизвестная escape-последовательность
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(111,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(112,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(113,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(114,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stas laptop\source\repos\Example\ExampleRussia.cpp(147,57): warning C4129: /: неизвестная escape-последовательность
+  Example.vcxproj -> C:\Users\Stas laptop\source\repos\Example\Debug\Example.exe

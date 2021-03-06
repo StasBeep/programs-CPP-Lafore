@@ -1,0 +1,5 @@
+﻿  Example4.cpp
+C:\Users\Stanislav\Desktop\Example4\Example4.cpp(440): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Stanislav\Desktop\Example4\Example4.cpp(488): warning C4129: : неизвестная escape-последовательность
+C:\Users\Stanislav\Desktop\Example4\Example4.cpp(491): warning C4129: : неизвестная escape-последовательность
+  Example4.vcxproj -> C:\Users\Stanislav\Desktop\Example4\Debug\Example4.exe

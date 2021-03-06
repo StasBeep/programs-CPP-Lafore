@@ -1,0 +1,2 @@
+﻿  constarg.cpp
+C:\Users\Stas laptop\source\repos\Project65\constarg.cpp(20,2): error C3892: b: невозможно присваивать значения переменной, которая объявлена как константа

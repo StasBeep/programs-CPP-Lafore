@@ -1,0 +1,2 @@
+C:\Users\Stas laptop\source\repos\Example5\Debug\Example5.exe
+C:\Users\Stas laptop\source\repos\Example5\Debug\Example5.pdb
